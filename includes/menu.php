@@ -11,7 +11,7 @@ echo '<body>
         <a class="nav-link" href="#">Statistiques<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Questions</a>
+        <a class="nav-link" href="suivibienetre.html">Questions</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Entreprises</a>
